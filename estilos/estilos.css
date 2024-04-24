@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000; /* Cambia esto al color de fondo que desees */
+  }
+  
+  #contenedor {
+    width: 800px; /* Cambia esto al ancho que desees */
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .personaje {
+    width: 300px; /* Cambia esto al tamaño que desees */
+  }
+  
+  .personaje img {
+    width: 100%;
+    height: auto;
+  }
+  
